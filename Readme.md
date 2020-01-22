@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Беллавин](https://up.htmlacademy.ru/javascript/19/user/226241).
-* Наставник: `Неизвестно`.
+* Наставник: [Сам себе наставник](https://up.htmlacademy.ru/javascript/19/user/226241).
 
 ---
 
